@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="REST-EXAM1" />
+        <module name="REST-EXAM2" />
+        <module name="studentApplication" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CarRentalSystem" target="18" />
+      <module name="REST-EXAM1" target="18" />
+      <module name="REST-EXAM2" target="18" />
+      <module name="studentApplication" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CarRentalSystem" options="-parameters" />
+      <module name="REST-EXAM1" options="-parameters" />
+      <module name="REST-EXAM2" options="-parameters" />
+      <module name="studentApplication" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentApp/CarRentalSystem.iml" filepath="$PROJECT_DIR$/StudentApp/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exam Practice.iml" filepath="$PROJECT_DIR$/.idea/Exam Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REST-EXAM1/REST-EXAM1.iml" filepath="$PROJECT_DIR$/REST-EXAM1/REST-EXAM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REST-EXAM2/REST-EXAM2.iml" filepath="$PROJECT_DIR$/REST-EXAM2/REST-EXAM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentApplication/studentApplication.iml" filepath="$PROJECT_DIR$/studentApplication/studentApplication.iml" />
+    </modules>
+  </component>
+</project>
